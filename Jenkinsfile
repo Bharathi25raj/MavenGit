@@ -5,5 +5,4 @@ node{
      stage('Compile-Package'){
       bat 'mvn package'
      }
-     
 }
